@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahjoonahfa.heyup.me/sitemap.xml
